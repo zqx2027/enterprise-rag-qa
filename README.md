@@ -160,7 +160,6 @@ data/
   sample_docs/       # 虚构示例知识库
   eval/              # 检索评测集
 streamlit_app.py
-.github/workflows/   # GitHub Actions 静态检查
 ```
 
 ## 设计取舍
@@ -178,7 +177,7 @@ streamlit_app.py
 python scripts\check.py
 ```
 
-GitHub Actions 会在每次 push 和 pull request 时执行 Ruff 静态检查、Python 编译检查和评测数据格式校验。
+本地自检会执行 Python 编译检查和评测数据格式校验。
 
 ## 已知限制
 
