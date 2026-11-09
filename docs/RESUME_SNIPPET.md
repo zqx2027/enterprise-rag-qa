@@ -1,10 +1,10 @@
 # 简历项目描述
 
-仓库创建后，将下面的占位链接替换为真实 GitHub 地址。
+仓库地址：https://github.com/zqx2027/enterprise-rag-qa
 
 ## 中文版本
 
-**企业知识问答系统（RAG）**｜Python、FastAPI、LangChain、Chroma、Streamlit｜[GitHub](https://github.com/你的用户名/enterprise-rag-qa)
+**企业知识问答系统（RAG）**｜Python、FastAPI、LangChain、Chroma、Streamlit｜[GitHub](https://github.com/zqx2027/enterprise-rag-qa)
 
 - 构建企业制度文档的检索增强问答系统，覆盖 Markdown、TXT、PDF、DOCX 加载、递归分块、向量建库、流式回答与引用溯源。
 - 使用 BGE 中文向量模型与 BM25 双路召回，通过 RRF 融合排名，并支持 BGE CrossEncoder 二阶段重排。
@@ -13,7 +13,7 @@
 
 ## English Version
 
-**Enterprise Knowledge Q&A System (RAG)** | Python, FastAPI, LangChain, Chroma, Streamlit | [GitHub](https://github.com/your-username/enterprise-rag-qa)
+**Enterprise Knowledge Q&A System (RAG)** | Python, FastAPI, LangChain, Chroma, Streamlit | [GitHub](https://github.com/zqx2027/enterprise-rag-qa)
 
 - Built a retrieval-augmented question answering system for enterprise policy documents, covering ingestion, recursive chunking, vector indexing, streaming responses, and source attribution.
 - Combined BGE embeddings and BM25 retrieval with reciprocal rank fusion, with optional cross-encoder reranking.
